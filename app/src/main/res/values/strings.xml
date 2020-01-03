@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ModularExampleApp</string>
+    <string name="title_login">Login Module</string>
+</resources>
